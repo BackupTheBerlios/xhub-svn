@@ -1,0 +1,14 @@
+This file contains the text that will be displayed to users upon entering the hub.
+Change it to suit your needs.
+
+Welcome to xHub
+
+
++rules       -- Displays a listing of the hub rules.
++faq         -- Displays a list of helpful links if you are having trouble.
++motd        -- Redisplays this message.
++help        -- Displays a list of all commands available to you. Dependent upon user type.
++credits     -- Displays a credits.
+
+
+The xHub homepage are located at http://xhub.czweb.org

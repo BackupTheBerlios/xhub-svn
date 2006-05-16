@@ -1,0 +1,37 @@
+README for xHub
+_______________
+
+English
+#######
+
+1) Run Terminal
+2) Write: make (You need package: make, g++)
+3) Wait ...
+4) Now you can start xHub, write "./server" or "./start.sh" for start as deamon
+5) The xHub running now :)
+6) If you want configure a hub, you must enable show a hidden files
+7) Edit a file "config" in folder ".xHub"
+
+
+Èesky
+#####
+
+1) Spus» Terminal
+2) Napi¹: make	(Potøebuje¹ balíèky: make, g++)
+3) Èekej ...
+4) Nyní mù¾e¹ spustit xHub, napi¹ "./server" nebo "./start.sh" spustíte deamona
+5) xHub teï bì¾í :)
+6) Pokud chce¹ nastavit hub, musí¹ povolit zobrazování skrytých souborù
+7) Edituj soubor "config" ve slo¾ce ".xHub"
+
+Support / Podpora
+=================
+
+WEB:       http://xHub.czweb.org
+
+E-Mail:    planetTomSoft@Seznam.cz
+           admin@infern0.tk
+
+ICQ:       302-285-423
+
+

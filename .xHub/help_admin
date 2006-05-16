@@ -1,0 +1,39 @@
+
+_________________________________________________________
+
+			HELP
+_________________________________________________________
+
+Global commands
+	+rules - Displays a listing of the hub rules.
+	+faq - Displays a list of helpful links if you are having trouble.
+	+motd - Displays the Message of the Day.
+	+help - Displays a list of all commands available to you.
+	+myinfo - Displays a your information.
+	+reglist - Displays a list of registered users.
+	+banlist - Displays a list of banned users.
+	+hubinfo - Displays a information of the hub.
+	+passwd - Change a your login password. (+passwd <Password>)
+	+regme - Ask for registration on the hub.
+
+OPs commands
+	+regnew - Register a new user. Example (+regnew <Nick> <Class>)
+	+regdel - Remove a user from reglist. Example (+regdel <Nick>)
+	+permban - Ban a user. Example (+permban <Nick>)
+	+bandel - Remove a user from banlist. Example (+bandel <Nick>)
+	+hubmaxusers - Change a number of max. users (+hubmaxusers <Number>)
+	+hubname - Change a name of the hub. Example (+hubname <Name>)
+	+hubdesc - Change a description of the hub. Example (+hubdesc <Desc.>)
+	+redirect - Redirect a user. (+redirect <Nick>/all <Address>)
+	+reload - Reload a files with text.
+	+kick - Kick a user. (+kick <Nick>)
+	+banner - Displays a banner of the hub.
+	+hublist - Add hub to a hublist.
+	+getinfo - Displays a info of user. (+getinfo <Nick>)
+	+mass - Displays a message on PM. (+mass text)
+	+search - Change a search function. (+search <1/0>)
+
+Owner commands
+	+shutdown - Shutdown a hub.
+	+restart - Restart a hub.
+_________________________________________________________

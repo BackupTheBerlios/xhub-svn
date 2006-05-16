@@ -1,0 +1,18 @@
+
+_________________________________________________________
+
+			HELP
+_________________________________________________________
+
+Global commands
+	+rules - Displays a listing of the hub rules.
+	+faq - Displays a list of helpful links if you are having trouble.
+	+motd - Displays the Message of the Day.
+	+help - Displays a list of all commands available to you.
+	+myinfo - Displays a your information.
+	+reglist - Displays a list of registered users.
+	+banlist - Displays a list of banned users.
+	+hubinfo - Displays a information of the hub.
+	+passwd - Change a your login password. (+passwd <Password>)
+	+regme - Ask for registration on the hub.
+_________________________________________________________
